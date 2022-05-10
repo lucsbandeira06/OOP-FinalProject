@@ -30,3 +30,4 @@
 /Users/lucsbandeira06/Projects/E_Commerce_lb23884/E_Commerce_lb23884/obj/Debug/netcoreapp3.1/E_Commerce_lb23884.genruntimeconfig.cache
 /Users/lucsbandeira06/Projects/E_Commerce_lb23884/E_Commerce_lb23884/obj/Debug/netcoreapp3.1/E_Commerce_lb23884.csproj.CopyComplete
 /Users/lucsbandeira06/Projects/E_Commerce_lb23884/E_Commerce_lb23884/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/lucsbandeira06/Projects/E_Commerce_lb23884/E_Commerce_lb23884/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
