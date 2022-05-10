@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{AACB1131-27DA-4A51-A00C-3EC73DEB939D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="E_Commerce_lb23884/Views/_ViewStart.cshtml">
+    <Files>
+      <File FileName="E_Commerce_lb23884/Program.cs" Line="4" Column="1" />
+      <File FileName="E_Commerce_lb23884/Startup.cs" Line="46" Column="2" />
+      <File FileName="E_Commerce_lb23884/Models/Product.cs" Line="3" Column="1" />
+      <File FileName="E_Commerce_lb23884/Models/Category.cs" Line="4" Column="1" />
+      <File FileName="E_Commerce_lb23884/Models/IProductRepository.cs" Line="3" Column="1" />
+      <File FileName="E_Commerce_lb23884/Models/ICategoryRepository.cs" Line="3" Column="1" />
+      <File FileName="E_Commerce_lb23884/Models/CategoryRepository.cs" Line="3" Column="1" />
+      <File FileName="E_Commerce_lb23884/Models/ProductRepository.cs" Line="42" Column="78" />
+      <File FileName="E_Commerce_lb23884/Controllers/ProductController.cs" Line="21" Column="29" />
+      <File FileName="E_Commerce_lb23884/Views/Product/List.cshtml" Line="1" Column="58" />
+      <File FileName="E_Commerce_lb23884/ViewModels/ProductListViewModel.cs" Line="10" Column="38" />
+      <File FileName="E_Commerce_lb23884/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="E_Commerce_lb23884/Views/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="E_Commerce_lb23884" expanded="True">
+            <Node name="E_Commerce_lb23884" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="_ViewStart.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.E__Commerce__lb23884 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
